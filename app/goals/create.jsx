@@ -17,6 +17,7 @@ const Create = () => {
     setGoal ('')
     Keyboard.dismiss()
     router.push('/goals')
+    ////
 
   }
 
